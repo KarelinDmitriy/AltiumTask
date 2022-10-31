@@ -2,5 +2,5 @@
 
 public interface IFileSorter
 {
-    Task SortFileAsync(string path, CancellationToken token);
+    Task SortFileAsync(string pathToFileForSort, string pathToResultFile, CancellationToken token);
 }

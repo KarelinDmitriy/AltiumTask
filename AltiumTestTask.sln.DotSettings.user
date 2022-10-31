@@ -3,5 +3,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C04CAB74-20B3-47F5-AB96-DFB2570FF115::net6.0::Altium.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C04CAB74-20B3-47F5-AB96-DFB2570FF115::net6.0::Altium.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C04CAB74-20B3-47F5-AB96-DFB2570FF115::net6.0::Altium.Tests.Tests.Cmp&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
